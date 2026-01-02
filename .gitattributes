@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git branch -M main
+git remote add origin https://github.com/USERNAME/AI-Campus-Assistant.git
+git push -u origin main
